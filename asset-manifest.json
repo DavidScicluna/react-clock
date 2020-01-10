@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-clock/static/css/main.b7482fd5.chunk.css",
+    "main.js": "/react-clock/static/js/main.745c8016.chunk.js",
+    "main.js.map": "/react-clock/static/js/main.745c8016.chunk.js.map",
+    "runtime-main.js": "/react-clock/static/js/runtime-main.d2a37bb1.js",
+    "runtime-main.js.map": "/react-clock/static/js/runtime-main.d2a37bb1.js.map",
+    "static/js/2.6d4ca715.chunk.js": "/react-clock/static/js/2.6d4ca715.chunk.js",
+    "static/js/2.6d4ca715.chunk.js.map": "/react-clock/static/js/2.6d4ca715.chunk.js.map",
+    "index.html": "/react-clock/index.html",
+    "precache-manifest.ba8d6df0dd92f3de79106b204651f846.js": "/react-clock/precache-manifest.ba8d6df0dd92f3de79106b204651f846.js",
+    "service-worker.js": "/react-clock/service-worker.js",
+    "static/css/main.b7482fd5.chunk.css.map": "/react-clock/static/css/main.b7482fd5.chunk.css.map",
+    "static/js/2.6d4ca715.chunk.js.LICENSE": "/react-clock/static/js/2.6d4ca715.chunk.js.LICENSE",
+    "static/media/beep.wav": "/react-clock/static/media/beep.5a020f67.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a37bb1.js",
+    "static/js/2.6d4ca715.chunk.js",
+    "static/css/main.b7482fd5.chunk.css",
+    "static/js/main.745c8016.chunk.js"
+  ]
+}
