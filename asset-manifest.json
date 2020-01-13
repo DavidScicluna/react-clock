@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-clock/static/css/main.e55d76b1.chunk.css",
-    "main.js": "/react-clock/static/js/main.1bfb78fb.chunk.js",
-    "main.js.map": "/react-clock/static/js/main.1bfb78fb.chunk.js.map",
+    "main.css": "/react-clock/static/css/main.3d942e95.chunk.css",
+    "main.js": "/react-clock/static/js/main.2beca593.chunk.js",
+    "main.js.map": "/react-clock/static/js/main.2beca593.chunk.js.map",
     "runtime-main.js": "/react-clock/static/js/runtime-main.d2a37bb1.js",
     "runtime-main.js.map": "/react-clock/static/js/runtime-main.d2a37bb1.js.map",
     "static/js/2.6d4ca715.chunk.js": "/react-clock/static/js/2.6d4ca715.chunk.js",
     "static/js/2.6d4ca715.chunk.js.map": "/react-clock/static/js/2.6d4ca715.chunk.js.map",
     "index.html": "/react-clock/index.html",
-    "precache-manifest.5474d6b5ba93d06102321d8288645765.js": "/react-clock/precache-manifest.5474d6b5ba93d06102321d8288645765.js",
+    "precache-manifest.520e4de888154ccc3697287e93e31ac6.js": "/react-clock/precache-manifest.520e4de888154ccc3697287e93e31ac6.js",
     "service-worker.js": "/react-clock/service-worker.js",
-    "static/css/main.e55d76b1.chunk.css.map": "/react-clock/static/css/main.e55d76b1.chunk.css.map",
+    "static/css/main.3d942e95.chunk.css.map": "/react-clock/static/css/main.3d942e95.chunk.css.map",
     "static/js/2.6d4ca715.chunk.js.LICENSE": "/react-clock/static/js/2.6d4ca715.chunk.js.LICENSE",
     "static/media/beep.wav": "/react-clock/static/media/beep.5a020f67.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.d2a37bb1.js",
     "static/js/2.6d4ca715.chunk.js",
-    "static/css/main.e55d76b1.chunk.css",
-    "static/js/main.1bfb78fb.chunk.js"
+    "static/css/main.3d942e95.chunk.css",
+    "static/js/main.2beca593.chunk.js"
   ]
 }
