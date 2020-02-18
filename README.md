@@ -8,9 +8,6 @@ Clock is an application that allows the user to check the time of any location, 
   2. **Alarm:** This section allows the user to set up multiple alarms.
   3. **Stopwatch:** This sections allows the user to start a stopwatch and take laps.
   4. **Timer:** This section allows the user to set up a timer for up to a day long.
-    
-## Prototype 
-  [Link](https://xd.adobe.com/view/99e3cf67-e748-4527-5254-12e8bc267182-efd2/?fullscreen) (Prototype is made with Adobe XD).
 
 ## Installation and Setup Instructions
 
