@@ -1,6 +1,6 @@
 # Clock Application
 
-Clock is an application that allows the user to check the time of any location, set alarms, set a stopwatch and set a timer. Built with [React JS](https://reactjs.org).
+Clock is a real time application that allows the user to check real-time of any city around the world. One can set alarms, a stopwatch and a timer. Built with [React JS](https://reactjs.org).
 
 ## Features
   This application has 4 different sections:
